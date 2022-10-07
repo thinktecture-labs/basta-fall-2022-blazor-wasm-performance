@@ -1,0 +1,8 @@
+﻿.table-row {
+    transition: background-color .2s ease-in-out;
+}
+
+.table-row.highlight {
+    background-color: #3d6fb4;
+    color: white;
+}
